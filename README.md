@@ -19,13 +19,4 @@ I am a marine ecologist investigating the complex dynamics of our changing ocean
 - 📊 **Statistical Modeling:** Leveraging advanced R scripting to wrangle, analyze, and visualize long-term ecological datasets.
 - 🗣️ **Science Communication:** Translating complex ecological data and peer-reviewed findings into accessible insights for the public and media.
 
-### 💻 Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/tidyverse-181717?style=flat-square&logo=github&logoColor=white" alt="tidyverse" />
-  <img src="https://img.shields.io/badge/ggplot2-326CE5?style=flat-square&logo=databricks&logoColor=white" alt="ggplot2" />
-  <img src="https://img.shields.io/badge/glmmTMB-4CAF50?style=flat-square&logo=dataiku&logoColor=white" alt="glmmTMB" />
-</p>
-
-### 🌍 Let's Connect
-- 🌐 **Website & Portfolio:** [sites.google.com/view/schaikin/home](https://sites.google.com/view/schaikin/home)
+ 🌐 **Website & Portfolio:** [sites.google.com/view/schaikin/home](https://sites.google.com/view/schaikin/home)
