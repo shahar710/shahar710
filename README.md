@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Shahar Chaikin 👋</h1>
+<h3 align="center">Postdoctoral Researcher in Marine Ecology | Macroecology & Conservation</h3>
 
-<!--
-**shahar710/shahar710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://sites.google.com/view/schaikin/home">
+    <img src="https://img.shields.io/badge/Visit_My_Website-0078D4?style=for-the-badge&logo=google&logoColor=white" alt="Homepage Badge"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I am a marine ecologist investigating the complex dynamics of our changing oceans. My research primarily explores macroecology and the impacts of climate change—such as chronic ocean warming and marine heatwaves—on fish biomass, high-velocity range shifts, and depth redistributions. Additionally, I work extensively in invasion ecology, tracking non-indigenous species and tropicalization patterns to better understand native habitat affinities and post-invasion ecological shifts.
+</p>
+
+### 🔬 What I Do
+- 🌊 **Macroecology & Climate Change:** Modeling species distributions and analyzing how cold-water species adapt to thermal stress and changing habitats.
+- 🐠 **Invasion Ecology:** Investigating the establishment, dynamics, and traits of invasive marine species in new environments.
+- 📊 **Statistical Modeling:** Leveraging advanced R scripting to wrangle, analyze, and visualize long-term ecological datasets.
+- 🗣️ **Science Communication:** Translating complex ecological data and peer-reviewed findings into accessible insights for the public and media.
+
+### 💻 Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/tidyverse-181717?style=flat-square&logo=github&logoColor=white" alt="tidyverse" />
+  <img src="https://img.shields.io/badge/ggplot2-326CE5?style=flat-square&logo=databricks&logoColor=white" alt="ggplot2" />
+  <img src="https://img.shields.io/badge/glmmTMB-4CAF50?style=flat-square&logo=dataiku&logoColor=white" alt="glmmTMB" />
+</p>
+
+### 🌍 Let's Connect
+- 🌐 **Website & Portfolio:** [sites.google.com/view/schaikin/home](https://sites.google.com/view/schaikin/home)
