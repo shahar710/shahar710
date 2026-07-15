@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Shahar Chaikin 👋</h1>
 <h3 align="center">Postdoctoral Researcher in Marine Ecology | Macroecology & Conservation</h3>
 
 <p align="center">
