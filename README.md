@@ -18,4 +18,19 @@ I am a marine ecologist investigating the complex dynamics of our changing ocean
 - 📊 **Statistical Modeling:** Leveraging advanced R scripting to wrangle, analyze, and visualize long-term ecological datasets.
 - 🗣️ **Science Communication:** Translating complex ecological data and peer-reviewed findings into accessible insights for the public and media.
 
- 🌐 **Website & Portfolio:** [sites.google.com/view/schaikin/home](https://sites.google.com/view/schaikin/home)
+🌐 **Website & Portfolio:** [sites.google.com/view/schaikin/home](https://sites.google.com/view/schaikin/home)
+
+### 📚 Featured Research
+* **[Long-term warming reduces fish biomass, but heatwaves shift it](https://doi.org/10.1038/s41559-026-03013-5)**
+  <br> *Chaikin, S., González-Trujillo, J. D., & Araújo, M. B. (2026).* Nature Ecology & Evolution.
+* **[Marine fishes experiencing high-velocity range shifts may not be climate change winners](https://doi.org/10.1038/s41559-024-02350-7)**
+  <br> *Chaikin, S., Riva, F., Marshall, K. E., Lessard, J. P., & Belmaker, J. (2024).* Nature Ecology & Evolution.
+* **[Cold-water species deepen to escape warm water temperatures](https://doi.org/10.1111/geb.13414)**
+  <br> *Chaikin, S., Dubiner, S., & Belmaker, J. (2021).* Global Ecology and Biogeography.
+
+### 📸 In the Field
+
+<p align="center">
+  <!-- Replace 'your-fish-image.jpg' with your actual file name -->
+  <img src="P6260307-Enhanced-NR.jpg" alt="A marine fish in its natural habitat" width="600"/>
+</p>
