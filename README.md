@@ -28,8 +28,6 @@ I am a marine ecologist investigating the complex dynamics of our changing ocean
 * **[Cold-water species deepen to escape warm water temperatures](https://doi.org/10.1111/geb.13414)**
   <br> *Chaikin, S., Dubiner, S., & Belmaker, J. (2021).* Global Ecology and Biogeography.
 
-### 📸 In the Field
-
 <p align="center">
   <!-- Replace 'your-fish-image.jpg' with your actual file name -->
   <img src="P6260307-Enhanced-NR.jpg" alt="A marine fish in its natural habitat" width="600"/>
