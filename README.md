@@ -1,4 +1,4 @@
-<h3 align="center">Postdoctoral Researcher in Marine Ecology | Macroecology & Conservation</h3>
+<h3 align="center">Postdoctoral Researcher in Marine Ecology | Global Change Ecology</h3>
 
 <p align="center">
   <a href="https://sites.google.com/view/schaikin/home">
